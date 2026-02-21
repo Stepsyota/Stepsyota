@@ -17,7 +17,8 @@
 ---
 
 ## ⚙️ Engineering foundation built during university studies
-### 👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click any badge to open the repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👇
+### 👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;Click any badge to open the repository&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👇
+
 <!-- C++ Academic -->
 [![C++](https://img.shields.io/badge/C++-%E2%80%A2%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87Academic%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%86%92-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Repository](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stepsyota/BSU/tree/main/C-plus-plus)
