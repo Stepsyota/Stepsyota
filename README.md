@@ -16,7 +16,7 @@
 <!-- Pet Projects -->
 
 ## 🚀 Pet Projects
-### 👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click any badge to open the repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👇
+### 👇&nbsp;Click any badge to open the repository&nbsp;👇
 [![GeoFrame](https://img.shields.io/badge/GeoFrame-%E2%80%A2%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87Python%E2%80%87Telegram%E2%80%87Bot%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%80%87%E2%86%92-00599C?style=for-the-badge&logo=telegram&logoColor=white)
 ![Repository](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stepsyota/GeoFrame)
 
@@ -57,11 +57,9 @@
 ---
 
 ## 📫 Contact 
-### 👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click any badge to get in touch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👇
+### 👇&nbsp;Click any badge to get in touch&nbsp;👇
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stepsyota)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stepsyota@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stepan-gud-58962a3b0/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/stepsyota)
 
 <!-- [![Resume](https://img.shields.io/badge/View_Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](link_to_pdf) -->
